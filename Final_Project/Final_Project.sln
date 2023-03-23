@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpClientTest", "HttpClient\HttpClientTest.csproj", "{10B117C0-D0F9-423F-89C0-333B946D03E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestSharp", "RestSharp\RestSharp.csproj", "{D32C6F18-65BD-48DF-B2A6-1B22BB5308BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOAP", "SOAP\SOAP.csproj", "{5F40E1F8-D41E-4165-9315-6748D96D7CA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10B117C0-D0F9-423F-89C0-333B946D03E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10B117C0-D0F9-423F-89C0-333B946D03E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10B117C0-D0F9-423F-89C0-333B946D03E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10B117C0-D0F9-423F-89C0-333B946D03E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D32C6F18-65BD-48DF-B2A6-1B22BB5308BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D32C6F18-65BD-48DF-B2A6-1B22BB5308BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D32C6F18-65BD-48DF-B2A6-1B22BB5308BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D32C6F18-65BD-48DF-B2A6-1B22BB5308BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F40E1F8-D41E-4165-9315-6748D96D7CA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F40E1F8-D41E-4165-9315-6748D96D7CA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F40E1F8-D41E-4165-9315-6748D96D7CA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F40E1F8-D41E-4165-9315-6748D96D7CA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A1AA4FB-7026-4F9D-8002-39733AC75239}
+	EndGlobalSection
+EndGlobal
