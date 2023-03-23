@@ -19,7 +19,7 @@ namespace HttpClientTest
 
     public class HttpFinal : HttpBaseTest
     {
-        private readonly List<OrderDetail> cleanUpList = new List<OrderDetail>();
+        List<OrderDetail> cleanUpList = new List<OrderDetail>();
 
         [TestInitialize]
         

@@ -1,4 +1,4 @@
-namespace SOAP
+namespace RestClient
 {
     [TestClass]
     public class UnitTest1
